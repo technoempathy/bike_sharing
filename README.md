@@ -20,7 +20,7 @@ To make your own Bike-sharing Predictor or review the project specifications, go
 Almost all the challenges I ran into with this project happened as a result of size mismatch. Read the comments in my code to see where I had these problems and how I solved them.
 
 ## Known Issues
-To pass all unit tests, I needed to add this print statement to the test_run function under unittests.
+To pass all unit tests, I needed to add this print statement to the test_run function under unittests in [bike_sharing.ipynb](https://github.com/technoempathy/bike_sharing/blob/master/bike_sharing.ipynb "Title").
 `print(network.run(inputs))`
 
 The print statment should be added here:
