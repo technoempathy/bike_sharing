@@ -1,4 +1,5 @@
-# Bike-sharing predictor
+### Bike-sharing predictor
+# Help a bike-sharing company make business decisions, using a neural network
 
 #### Returns the expected volume of business based on historical bike-retal data, so the company can predict the number of bikes they will need. First project for the Udacity Deep Learning Nanodegree.
 
