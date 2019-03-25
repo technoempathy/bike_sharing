@@ -7,7 +7,10 @@
 ### Step 1: Review my code in [my_answers.py](https://github.com/technoempathy/bike_sharing/blob/master/my_answers.py "Title") and see my results in [bike_sharing.ipynb](https://github.com/technoempathy/bike_sharing/blob/master/bike_sharing.ipynb "Title").
 
 ### Step 2: Do this project yourself
-To make your own Bike-sharing Predictor or review the project specifications, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing "Title") and follow the instructions in Udacity's README.
+To make your own Bike-sharing Predictor, go [here](https://github.com/udacity/deep-learning-v2-pytorch "Title") and clone the repository.
+```	git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+	cd deep-learning-v2-pytorch/project-tv-script-generation```
+Then open Predicting_bike_sharing_data.ipynb. 
 
 ## Prerequisites
 1. Jupyter Notebooks
