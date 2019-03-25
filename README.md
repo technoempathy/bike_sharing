@@ -18,7 +18,7 @@ Then open Predicting_bike_sharing_data.ipynb.
 1. Jupyter Notebooks
 2. GPU
 3. The [bike-sharing dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) from the UCI Machine Learning Database. 
-4. Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
+4. PyTorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
 
 ## Tips
 #### Watch out for size mismatch. 
