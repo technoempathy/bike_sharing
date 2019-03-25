@@ -8,8 +8,10 @@
 
 ### Step 2: Do this project yourself
 To make your own Bike-sharing Predictor, go [here](https://github.com/udacity/deep-learning-v2-pytorch "Title") and clone the repository.
-```	git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-	cd deep-learning-v2-pytorch/project-tv-script-generation```
+```
+git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+cd deep-learning-v2-pytorch/project-tv-script-generation
+```
 Then open Predicting_bike_sharing_data.ipynb. 
 
 ## Prerequisites
