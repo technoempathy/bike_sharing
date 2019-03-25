@@ -1,7 +1,7 @@
 ### Bike-sharing predictor
 # Help a bike-sharing company make business decisions
 
-#### Returns the expected volume of business based on historical bike-retal data, so the company can predict the number of bikes they will need. First project for the Udacity Deep Learning Nanodegree.
+#### Returns the expected volume of business based on historical bike-rental data, so the company can predict the number of bikes they will need. First project for the Udacity Deep Learning Nanodegree.
 
 ## Getting Started
 ### Step 1: Review my code in [my_answers.py](https://github.com/technoempathy/bike_sharing/blob/master/my_answers.py "Title") and see my results in [bike_sharing.ipynb](https://github.com/technoempathy/bike_sharing/blob/master/bike_sharing.ipynb "Title").
@@ -13,7 +13,7 @@ To make your own Bike-sharing Predictor or review the project specifications, go
 1. Jupyter Notebooks
 2. GPU
 3. The [bike-sharing dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) from the UCI Machine Learning Database. 
-4.	Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
+4. Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
 
 ## Tips
 #### Watch out for size mismatch. 
